@@ -1,5 +1,5 @@
 #!/usr/bin/python3.7
-#
+
 # fasta2GTF.py
 #
 # by Daniel Leite
